@@ -1,3 +1,6 @@
+This comes with totally no warranty.<br>
+by downloading this repo you agree for license provided.<br>
+
 To run this bot you need to do followings:<br>
 in bots directory do this command <br>
 pip install discord.py <br>
